@@ -13,7 +13,7 @@
     "apollo-server": "^2.22.2",
     "countries-list": "^2.6.1",
     "graphql": "^15.5.0",
-    "graphql-request": "^3.4.0",
+    "graphql-request": "^4.2.0",
     "provinces": "^1.11.0",
     "sift": "^13.5.0"
   },
